@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm J-Codebase 👋
 
-<!--
-**j-codebase/j-codebase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a passionate web developer focused on building modern, responsive, and user-friendly web applications using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical applications, solving problems, and continuously improving my development skills.
+
+### 🚀 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+### 🌱 Currently Working On
+
+- Improving my MERN stack development skills
+- Building full-stack web applications
+- Learning better coding practices and application architecture
+
+### 🎯 Goals
+
+- Build useful real-world projects
+- Write clean, maintainable code
+- Grow as a full-stack developer
+
+### 🤝 Connect With Me
+
+- **GitHub:** https://github.com/j-codebase
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
